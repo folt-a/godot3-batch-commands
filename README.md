@@ -1,5 +1,5 @@
 # godot3-batch-commands
-Godot 3 のバッチ処理まとめ
+Godot 3 のちょいバッチ処理をまとめておいておくところ
 
 * merge-tileset
 
